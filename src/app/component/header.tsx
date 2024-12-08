@@ -12,7 +12,7 @@ export default function Header (){
             {/* blue div */}
             <div className=" hidden  w-[full] h-[45x]  text-white bg-[#272343] lg:flex   justify-between px-[100px] ">
                 <div className="flex pt-2 ">
-                    <Image src={ check} alt="check" className="w-4 h-4" />
+                    <Image src={ check} alt="check"  className="w-4 h-4" />
                     <h1 className="font-normal text-sm leading-[14.3px]">Free shipping on all orders over $50</h1>
                 </div>
 
